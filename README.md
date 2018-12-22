@@ -9,7 +9,7 @@ typora-copy-images-to: ipic
 
 ---
 
-# 示例  
+# 示例  demo
 
 <https://zk4.github.io/gatsby-blog>
 
